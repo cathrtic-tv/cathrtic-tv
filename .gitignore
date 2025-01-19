@@ -1,0 +1,11 @@
+# Ignore everything...
+*
+!*/
+
+
+# ... except:
+!/.gitignore
+!/.github/README/*
+!/.github/FUNDING.yml
+
+!/README.md
